@@ -3,3 +3,5 @@ aiohttp==3.9.5
 python-dotenv
 pytz
 requests
+yarl
+multidict
