@@ -9,3 +9,5 @@ pydantic-core==2.14.6
 pytz==2024.1
 requests==2.31.0
 magic-filter==1.0.12
+qrcode==7.4.2
+Pillow==10.4.0
